@@ -3,6 +3,7 @@ My name is Vinicius Brito and i'am a a Fullstack development student, currently 
 - 🔭 I’m currently working on ...
     * [Recode Pro](https://github.com/Dracods/Recode-Pro)
 - 🌱 I’m currently learning ...
+    * C#
     * HTML
     * CSS
     * Javascript
