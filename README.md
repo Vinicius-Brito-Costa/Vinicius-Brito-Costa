@@ -1,7 +1,8 @@
 <h1 align="center">Sejam muito bem-vindos!</h1>
-Prazer meu nome é Vinícius Brito Costa, tenho 24 anos e sou apaixonado por tecnologia.:smile:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/vin%C3%ADcius-brito-costa/)
+<p align="center">
+Prazer meu nome é Vinícius Brito Costa, tenho 24 anos e sou apaixonado por tecnologia.:smile:
+</p>
 
 ### Geral:
 
@@ -24,3 +25,6 @@ Prazer meu nome é Vinícius Brito Costa, tenho 24 anos e sou apaixonado por tec
 ![Windows 10](https://img.shields.io/badge/Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=fc6b03)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=fc6b03)
 ![Google Chrome](https://img.shields.io/badge/Chrome-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=fc6b03)
+
+#### Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/vin%C3%ADcius-brito-costa/)
