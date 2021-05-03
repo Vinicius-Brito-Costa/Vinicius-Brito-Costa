@@ -22,9 +22,9 @@ Prazer meu nome é Vinícius Brito Costa, tenho 24 anos e sou apaixonado por tec
 ![SQL Server](https://img.shields.io/badge/sqlserver-%2307405e.svg?&style=for-the-badge&logo=sql-server&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Ferramentas
-![Windows 10](https://img.shields.io/badge/Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=fc6b03)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=fc6b03)
-![Google Chrome](https://img.shields.io/badge/Chrome-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=fc6b03)
+![Windows 10](https://img.shields.io/badge/Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=3b3b3b)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=3b3b3b)
+![Google Chrome](https://img.shields.io/badge/Chrome-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=3b3b3b)
 
 #### Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/vin%C3%ADcius-brito-costa/)
