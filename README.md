@@ -1,10 +1,24 @@
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-<h1 align="center">Sejam muito bem-vindos!</h1>
-
-<h3 align="center">
-Prazer meu nome é Vinícius Brito Costa, tenho 24 anos e sou apaixonado por tecnologia.:smile:
-</h3>
-<br>
-<div align="center">
-<img height="180rem" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Brito-Costa&layout=compact&theme=dracula&langs_count=8'>
-<img height="180rem" src='https://github-readme-stats.vercel.app/api?username=Vinicius-Brito-Costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true'>
+<link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
+<div style="background-color: rgb(27, 27, 27);padding: 8px;min-width: 100%; min-height: 100%;font: Hack, monospace">
+<div class="background"
+style="border: 2px solid rgb(31, 219, 14);padding: 4px">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h1 style="color:rgb(218, 218, 218);margin:0px;width:100%;text-align:center">Work in progress...</h1>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<span>d</span>
+</div>
+</div>
