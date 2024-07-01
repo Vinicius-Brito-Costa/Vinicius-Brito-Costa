@@ -1,5 +1,5 @@
 
- <img style="display:block;margin:auto" src="/images/digimon-izzy.gif"/>  
+ <img align="center" src="/images/digimon-izzy.gif"/>  
 
 I'm ***Vinícius Brito Costa***, a passionate tech enthusiast with a focus on continuous learning and growth. Currently working as a Software Engineer on a **payment gateway**, where my responsibilities include *product development*, *system support*, and *ensuring smooth operations*.
 
